@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.firebase/
+.firebaserc
+firebase-debug.log
+firestore-debug.log
+npm-debug.log*
+.DS_Store
+Thumbs.dbfunctions/.secret.local
+functions/.env.local
+functions/.env.*.local

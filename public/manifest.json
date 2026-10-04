@@ -1,0 +1,22 @@
+{
+  "id": "/",
+  "name": "Money Maker AI: Content Production Studio",
+  "short_name": "Money Maker AI",
+  "description": "A research-led AI digital content production studio with human review and daily usage controls.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "theme_color": "#171a16",
+  "background_color": "#f3f4f0",
+  "categories": ["productivity", "video", "business"],
+  "icons": [
+    {
+      "src": "/assets/icons/money-maker-ai.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
